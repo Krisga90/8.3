@@ -1,0 +1,1 @@
+Example of using the reference to class in functions.
